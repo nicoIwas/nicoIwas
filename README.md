@@ -10,7 +10,7 @@ Greetings! I'm Nicolas, an undergraduate student in Information Systems at the U
 
 3. **Python Development** 🐍: Python's versatility has made it one of my preferred languages, especially for Data Analysis and AI applications.
 
-4. **PostgreSQL** 🐘: I have experience working with PostgreSQL as an integration system and dealing with query plans.
+4. **PostgreSQL** 🐘: I have experience working with PostgreSQL as an integrated system and dealing with query plans.
 
 5. **Studying C++ and C#** 🖥️: I am currently engaged in learning C++ and C#, even though they are not my main focus.
 
