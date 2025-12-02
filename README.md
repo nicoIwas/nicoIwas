@@ -1,16 +1,29 @@
-## Hi there 👋
+# nicoIwas
 
-<!--
-**nicoIwas/nicoIwas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
+I’m a Bachelor in Information Systems from USP, where I took part in scientific research focused on undersampling methods and genetic algorithms. I also have academic experience in machine learning.
 
-Here are some ideas to get you started:
+I’m currently working as a Junior Data Scientist. I have hands-on experience with Python, SQL, AWS Cloud, NoSQL databases, and other technologies. I’m highly interested in a wide range of programming challenges. Feel free to explore my public repositories to see the areas I’m most passionate about.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:**
+- Python
+- Java
+
+**Data & Databases:**
+- SQL (PostgreSQL, MySQL)
+- NoSQL (MongoDB, DynamoDB)
+
+**Cloud & DevOps:**
+- AWS Cloud Services (Lambda, S3, RDS, Datalake Formation, Glue, etc.)
+
+**Automation & Workflows:**
+- n8n
+
+## 📫 Contact
+
+If you’d like to get in touch, feel free to reach out:
+
+📧 [nickuhrb@gmail.com](mailto:nickuhrb@gmail.com)
+💼 [LinkedIn Profile](https://www.linkedin.com/in/nicolas-uhr/)
